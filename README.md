@@ -9,10 +9,18 @@ Bugss:
 
 Here is how the game looks:
 
-        ![Screenshot 2023-02-01 165015](https://user-images.githubusercontent.com/101680954/216171386-4a7028e9-fd49-4b4d-a0d2-abfda7345be4.png)
+<p align="center">
+  <img width="571" height="600" src="https://user-images.githubusercontent.com/101680954/216171386-4a7028e9-fd49-4b4d-a0d2-abfda7345be4.png">
+</p>
 
-        ![Screenshot 2023-02-01 164549](https://user-images.githubusercontent.com/101680954/216171190-b059c9d8-98cc-4b29-bafc-44dabade8f31.png)
+<p align="center">
+  <img width="572" height="601" src="https://user-images.githubusercontent.com/101680954/216171190-b059c9d8-98cc-4b29-bafc-44dabade8f31.png">
+</p>
 
-        ![Screenshot 2023-02-01 164722](https://user-images.githubusercontent.com/101680954/216171454-f459fefc-6c6a-4059-b33e-1c45947fcf06.png)
+<p align="center">
+  <img width="570" height="602" src="https://user-images.githubusercontent.com/101680954/216171454-f459fefc-6c6a-4059-b33e-1c45947fcf06.png">
+</p>
 
-        ![Screenshot 2023-02-01 164824](https://user-images.githubusercontent.com/101680954/216171473-c8720d3e-c3d0-46d9-baea-8f90d74785c8.png)
+<p align="center">
+  <img width="572" height="603" src="https://user-images.githubusercontent.com/101680954/216171473-c8720d3e-c3d0-46d9-baea-8f90d74785c8.png">
+</p>
